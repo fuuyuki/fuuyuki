@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fuuyuki
-- 👀 I’m interested in Robotics, Artificial Intelligence, Machine Learning, Pattern Recognition, and Image Processing
+- 👀 I’m interested in Embedded Systems, Artificial Intelligence, Machine Learning, Pattern Recognition, and Image Processing
 - 🌱 I’m currently learning Electrical Engineering and Computer Information System
 - 💞️ I’m looking to collaborate on ...
 - 📫 Find me in my LinkedIn account

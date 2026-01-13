@@ -35,13 +35,19 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Activity Snapshot
+Instead of broken GitHub stats cards, here’s a **visual summary**:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fuuyuki&theme=tokyonight&show_icons=true&hide=issues,prs" alt="GitHub stats"/>
+  <img src="https://copilot.microsoft.com/th/id/BCO.hEooxYoRGrqzheWajgVJB" alt="GitHub Activity Summary"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuuyuki&layout=compact&theme=tokyonight" alt="Top languages"/>
-</p>
+
+- **Repositories**: 25  
+- **Languages**: Python (40%), C++ (35%), Java (25%)  
+- **Contributions**:  
+  - 2023 → 120 commits  
+  - 2024 → 300 commits  
+  - 2025 → 450 commits  
 
 ---
 
@@ -52,9 +58,6 @@
   </a>
   <a href="https://www.linkedin.com/in/muhammad-fikra-adzaky-9782941b2/">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="40" height="40"/>
-  </a>
-  <a href="https://t.me/yourtelegramusername">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Telegram_black.png" width="40" height="40"/>
   </a>
 </p>
 

@@ -63,10 +63,17 @@ flowchart LR
 
 <sub>My default blueprint: each stage is independently testable, so a failure at the edge never becomes a mystery in the app.</sub>
 
+## 🔬 Selected work
+
+- **[Smart Adherence Pillbox (SAP)](https://github.com/fuuyuki/sap-fastapi)** — one product split into cooperating layers: [C/C++ firmware](https://github.com/fuuyuki/sap-pillbox) and a [C++ smartwatch](https://github.com/fuuyuki/sap-watch) at the edge, a [Kotlin Android app](https://github.com/fuuyuki/sapp-android) for patients, and a [FastAPI backend](https://github.com/fuuyuki/sap-fastapi) holding it together.
+- **[WRO Museum Guide Robot](https://github.com/fuuyuki/wro-wisanggeni)** — Python control stack for the *Marvel* and *Karuna* guide robots we fielded for WRO.
+- **[ESP32-CAM note verification](https://github.com/fuuyuki/esp32-cam-fakemoney)** — on-device machine learning telling real banknotes from counterfeits, with no cloud round-trip.
+- **[proto-folio](https://github.com/fuuyuki/proto-folio)** — Svelte market and admin app; **[talenta-app](https://github.com/fuuyuki/talenta-app)** and **[siab-dashboard](https://github.com/fuuyuki/siab-dashboard)** round out the web side in TypeScript and Laravel.
+
 ## 🧰 Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,arduino,raspberrypi,linux,bash,git,github,vscode&perline=11" alt="Languages and tools" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,svelte,typescript,fastapi,laravel,arduino,raspberrypi,linux,bash,git,vscode&perline=8" alt="Languages and tools" />
 </p>
 
 <p align="center">
@@ -80,12 +87,19 @@ flowchart LR
 
 ## 📈 By the numbers
 
+<sub>Pulled from the public GitHub API on 30 Oct 2026 — repos grouped by primary language, commits by author date on default branches (private work not included).</sub>
+
 ```text
-Language mix                 Contribution trend
-──────────────────────       ─────────────────────────────
-Python  ████████  40%        2023  █████░░░░░░░░░░░░░░░  120
-C++     ███████   35%        2024  █████████████░░░░░░░  300
-Java    █████     25%        2025  ████████████████████  450
+Repos by primary language    Public commits, by year
+─────────────────────────    ───────────────────────────────
+Python            ███  3     2022  █                      16
+Jupyter Notebook  ██   2     2023  █                       6
+C / C++           ██   2     2024  █                       9
+JavaScript        ██   2     2025  ██                     44
+TypeScript        █    1     2026  ████████████████████  392
+Svelte            █    1
+Kotlin            █    1
+PHP / Blade       █    1
 ```
 
 <details>
@@ -95,7 +109,7 @@ Java    █████     25%        2025  ███████████�
 - Building reproducible, modular systems — technical and personal.
 - Exploring ethical investing and how wealth circulation touches the real economy.
 - Designing secure IoT platforms with biometric security for healthcare applications.
-- 25 public repositories and counting.
+- Fifteen public repositories of my own, spanning firmware, mobile, backend, and web.
 
 </details>
 
